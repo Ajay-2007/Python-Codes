@@ -1,3 +1,5 @@
+# Problem Link
+# https://www.hackerrank.com/challenges/maximize-it
 from itertools import product
 
 k, m = tuple(map(int, input().split()))
