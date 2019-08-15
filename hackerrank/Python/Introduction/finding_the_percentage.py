@@ -13,3 +13,5 @@ if __name__ == '__main__':
     for i in student_marks[query_name]:
         avg += i
     print('%.2f'%(avg/3))
+    # alternativly
+    # print('%.2f'%(sum(student_marks[query_name])/3))
